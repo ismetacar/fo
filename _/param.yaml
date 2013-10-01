@@ -1,0 +1,16 @@
+---
+author: İsmetacar Doğan
+description: ''
+email: ismetacar@bil.omu.edu.tr
+url: folyo.ismetacar.github.io
+domain: ismetacar.github.io
+intro: ''
+googleanalytics: ''
+googleplus: ''
+brand: default
+landslide: /usr/bin/landslide
+css: _/default.css
+js: _/default.js
+theme: light
+indextemplate: _/index.erb
+foliotemplate: _/default.erb
